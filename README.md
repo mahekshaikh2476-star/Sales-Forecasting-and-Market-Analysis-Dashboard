@@ -123,13 +123,6 @@ Sales-Forecasting-and-Market-Analysis-Dashboard/
 
 └── requirements.txt
 
----
-
-## 📸 Dashboard Preview
-
-Add your Power BI dashboard screenshot here.
-
----
 
 ## 👨‍💻 Author
 
