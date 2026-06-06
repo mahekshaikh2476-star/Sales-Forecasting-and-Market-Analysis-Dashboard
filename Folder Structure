@@ -1,0 +1,20 @@
+Sales-Forecasting-and-Market-Analysis-Dashboard/
+│
+├── Data/
+│   └── final_sales_forecasting.csv
+│
+├── Notebook/
+│   └── Sales_forecasting_Demand_Prediction_Dashboard.ipynb
+│
+├── PowerBI/
+│   └── Sales_Forecasting_Dashboard.pbix
+│
+├── Images/
+│   ├── forecast_chart.png
+│   ├── regional_sales.png
+│   ├── seasonal_sales.png
+│   ├── stock_risk.png
+│   └── dashboard_screenshot.png
+│
+├── README.md
+└── requirements.txt
