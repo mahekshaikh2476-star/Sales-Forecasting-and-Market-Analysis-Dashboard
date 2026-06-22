@@ -128,4 +128,3 @@ Sales-Forecasting-and-Market-Analysis-Dashboard/
 
 **Mahek Shaikh**
 
-Aspiring Data Analyst | Python | Power BI | SQL | Data Visualization | Business Intelligence
